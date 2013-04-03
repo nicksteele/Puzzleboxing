@@ -5,5 +5,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="textview">TextView</string>
+    <string name="throttle_label">Throttle</string><string name="device_name">Copter</string>
+    
+    <string name="pitch_label">Pitch</string>
+    <string name="button_label">Actions</string>
 
 </resources>
