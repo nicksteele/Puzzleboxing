@@ -25,9 +25,11 @@ import android.graphics.Color;
 import android.graphics.drawable.ClipDrawable;
 import android.graphics.drawable.ShapeDrawable;
 import android.graphics.drawable.shapes.RoundRectShape;
+import android.hardware.Sensor;
 
 import android.util.Log;
 
+import android.view.Display;
 import android.view.Gravity;
 import android.view.Menu;
 import android.view.View;
